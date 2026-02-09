@@ -1,0 +1,9 @@
+rgname                 = "prod-sd-rg"
+service_principal_name = "prod-sd-spn"
+keyvault_name          = "prod-sd-kv-101"
+SUB_ID = "470d625a-0c4c-4357-a1ee-c6210571c599"
+cluster_name = "prod-sd-cluster"
+node_pool_name = "prodnpool1"
+vm_size = "Standard_DS2_v2"
+environment = "prod"
+kubernetes_version = null

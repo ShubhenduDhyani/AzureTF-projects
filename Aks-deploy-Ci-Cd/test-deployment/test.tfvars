@@ -1,0 +1,9 @@
+rgname                 = "test-sd-rg"
+service_principal_name = "test-sd-spn"
+keyvault_name          = "test-sd-kv-101"
+SUB_ID = "470d625a-0c4c-4357-a1ee-c6210571c599"
+cluster_name = "test-sd-cluster"
+node_pool_name = "testnpool1"
+vm_size = "Standard_DS2_v2"
+environment = "test"
+kubernetes_version = null
